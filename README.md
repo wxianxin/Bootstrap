@@ -1,4 +1,3 @@
 # Bootstrap
 
-Calculate spot rates for bonds;
-utilizes Newton-Raphson methond.
+Calculate spot rates for bonds /w Newton-Raphson method.
